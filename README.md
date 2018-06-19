@@ -1,2 +1,1 @@
-# deep-learning-specialization
-Deep Learning Specialization (Andrew NG)
+# [Deep Learning Specialization](https://www.deeplearning.ai/)
