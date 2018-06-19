@@ -13,7 +13,7 @@
     
     * 第三周 目标检测 Object detection
     
-        * 交并比 Intersection Over Union
+        * [交并比 Intersection Over Union](http://nbviewer.jupyter.org/github/wang-junjian/deep-learning-specialization/blob/master/4-convolutional-neural-networks/3.6_intersection_over_union.ipynb)
         
     * 第四周 特殊应用：人脸识别和神经风格转换 Special applications: Face recognition & Neural style transfer
 
