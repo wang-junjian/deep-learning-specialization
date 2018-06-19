@@ -12,7 +12,8 @@
     * 第二周 深度卷积模型：案例研究 Deep convolutional models: case studies
     
     * 第三周 目标检测 Object detection
-        6. 交并比 Intersection Over Union
+    
+        * 交并比 Intersection Over Union
         
     * 第四周 特殊应用：人脸识别和神经风格转换 Special applications: Face recognition & Neural style transfer
 
